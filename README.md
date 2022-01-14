@@ -1,2 +1,2 @@
 # SEI-Project-1-Mastermind
-Project 1 - Mastermind themed Lord of The Rings
+Project 1 - Lord of The Rings themed Mastermind
