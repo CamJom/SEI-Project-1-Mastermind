@@ -85,7 +85,7 @@ I had fun making the game but came across difficulties when coding the logic of 
 As I planned to have more functionalities than originally planned, there are many styling interactions that do not function as planned. 
 One of which is the duplicate secret character code. 
 
-#Wins
+# Wins
 1. I was very pleased that I managed to create a working game that is playable for a single player.
 2. I was also very pleased with how the website turned out from the styling, theming to the background music and voice clips when characters were chosen.  
 
